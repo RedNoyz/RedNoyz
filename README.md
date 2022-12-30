@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @RedNoyz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<table><tr><td valign="top" width="75%">
 
-<!---
-RedNoyz/RedNoyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 Hi, I Am RedNoyz
+
+- I am a QA Specialist
+- Amateur Python programmer as a hobby
+- I have been working in game development QA since 2013
