@@ -2,6 +2,6 @@
 
 ## 👋 Hi, I Am RedNoyz
 
-- I am a QA Specialist
+- I am a QA Architect
 - Amateur Python programmer as a hobby
 - I have been working in game development QA since 2013
